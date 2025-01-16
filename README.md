@@ -39,8 +39,6 @@ You can check the live demo of this project [here](#).
 ├── index.html         # Main HTML file
 └── README.md          # Project documentation
 
----
-
 ~~~
 
 ## 🔧 Installation and Usage
