@@ -55,7 +55,7 @@ You can check the live demo of this project [here](https://azadsingh818.github.i
 ## 📸 Screenshots
 🏠 Home Page
 
-![Alt Text](image-url)
+![Alt Text](https://github.com/AzadSingh818/Amazon-Frontend-Clone/blob/master/images/amazon.png)
 
 ---
 
