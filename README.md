@@ -30,10 +30,12 @@ You can check the live demo of this project [here](#).
 
 ## 📂 Folder Structure
 
-```plaintext
-📦 Amazon-Frontend-Clone
-├── 📁 assets          # Images, icons, and other static files
-├── 📁 css             # Stylesheets
-├── 📁 js              # JavaScript files
-├── index.html         # Main HTML file
-└── README.md          # Project documentation
+---
+
+## 🔧 Installation and Usage
+
+1. **Clone the repository:**
+   ~~~
+   git clone https://github.com/AzadSingh818/Amazon-Frontend-Clone.git
+
+
