@@ -55,7 +55,7 @@ You can check the live demo of this project [here](https://azadsingh818.github.i
 ## 📸 Screenshots
 🏠 Home Page
 
-(Replace images/amazon.png with a valid image link.)
+![Alt Text](image-url)
 
 ---
 
