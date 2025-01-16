@@ -24,7 +24,6 @@ This repository contains a **frontend clone** of Amazon, built to mimic the desi
 ## 🌟 Demo
 
 You can check the live demo of this project [here](https://azadsingh818.github.io/Amazon-Frontend-Clone/).  
-*(Replace `#` with the URL if hosted on platforms like Netlify, Vercel, or GitHub Pages.)*
 
 ---
 
